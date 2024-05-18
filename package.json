@@ -1,0 +1,19 @@
+{
+  "name": "@types/react-native-progress-steps",
+  "version": "1.0.0",
+  "description": "TypeScript definitions for react-native-progress-steps",
+  "main": "",
+  "types": "index.d.ts",
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ugur-Atakan/types-react-native-progress-steps.git"
+  },
+  "keywords": [
+    "typescript",
+    "types",
+    "react-native",
+    "progress-steps"
+  ]
+}
